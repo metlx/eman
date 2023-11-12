@@ -1,0 +1,2 @@
+# eman
+emacs configuration manager
